@@ -22,6 +22,7 @@ def quiz(filename):
         print("True answer: " + answer)
         print("===")
 
+
 files = {
     "14.1": "vocab_ch14-1_jobs.txt",
     "14.2": "vocab_ch14-2_money.txt",
