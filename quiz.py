@@ -1,7 +1,6 @@
 import csv
 import random
 
-
 def quiz(filename):
     with open(filename, newline="") as csvfile:
         reader = csv.reader(csvfile)
