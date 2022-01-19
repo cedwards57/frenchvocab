@@ -1,0 +1,38 @@
+drop the 'e',for futur simple form: irregular verbs ending in 'e'...
+'e' becomes 'é',for futur simple form: some irregular verbs ending in 'e' + consonant + 'er'...
+double 'l' or 't',for futur simple form: some irregular verbs ending in '-eler' or '-eter'...
+'y' becomes 'i',for futur simple form: irregular verbs ending in '-yer'...
+'y' CAN become 'i',for futur simple form: irregular verbs ending in '-ayer'...
+j'achètai,i will buy
+je le congèlai,i will freeze it
+j'enlèvai,i will remove
+je gèlai,i will freeze (be frozen)
+je lèvai,i will raise/lift
+je mènai,i will lead
+je modèlai,i will model
+je pèsai,i will weigh
+je me promènai,i will walk/wander
+je regarderai,i will watch
+ir,aller futur simple root
+aur,avoir futur simple root
+courr,courir futur simple root
+devr,devoir futur simple root
+enverr,envoyer futur simple root
+ser,être futur simple root
+fer,faire futur simple root
+faudr,falloir futur simple root
+mourr,mourir futur simple root
+pleuvr,pleuvoir futur simple root
+pourr,pouvoir futur simple root
+recevr,recevoir futur simple root
+saur,savoir futur simple root
+tiendr,tenir futur simple root
+viendr,venir futur simple root
+verr,voir futur simple root
+voudr,vouloir futur simple root
+je regarderai,i will watch
+tu regarderas,you will watch
+il regardera,he will watch
+nous regarderons,we will watch
+vous regarderez,you will watch (pl.)
+ils regarderont,they will watch

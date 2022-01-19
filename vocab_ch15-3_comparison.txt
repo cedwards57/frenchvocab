@@ -1,0 +1,43 @@
+plus... que,more [adverb] than
+moins... que,less [adverb] than
+aussi... que,as [adverb] as
+le plus...,the most [adverb] / [adjective]
+le moins...,the least [adverb] / [adjective]
+bien,well
+mieux,better (adv.)
+le mieux,the best (adv.)
+mal,poorly
+plus mal,worse (adv.)
+le plus mal,the worst (adv.)
+plus de... que,more [nouns] than
+moins de... que,less/fewer [nouns] than
+autant de... que,as many [nouns] as
+chacun(e),each (n.)
+chaque,each (adj.)
+quelques-un(e)s,some (n.)
+quelques-un(e),some (pronoun)
+quelques-un(e) de,"some of" (pronoun w/ description)
+quelques,some (adj.)
+tout/tous/toute/toutes,all (adj.)
+tout,all (n.)
+quelques-une de personnes,a few people
+quelque chose,something
+quelque chose de [n.],something which is...
+chacun(e) de...,each of...
+un(e) autre,another (adj.)
+d'autre,other (adj.)
+l'autre / les autres, other(s) (n.) (adj.)
+certain(e)(s),certain (adj.)
+le/la même / les mêmes,the same (n.) (adj.)
+pleusieurs,several (adj.)
+plusieurs de...,several of...
+plus... que,more... than (adj.)
+moins... que,less... than (adj.)
+aussi... que,as... as (adj.)
+Elle est plus intelligente que lui.,She is more intelligent than he is.
+bon(ne),good
+meilleur(e),better (adj.)
+le meilleur / la meilleure,the best (adj.)
+mauvais(e),bad
+plus mauvais(e); pire,worse (adj.)
+le/la plus mauvais(e); le/la pire,the worst (adj.)

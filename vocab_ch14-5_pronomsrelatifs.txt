@@ -1,0 +1,14 @@
+qui,(relative pronoun replacing the subject of a dependent clause); i have a friend WHO is funny.
+J'ai un emploi qui me plaît.,Combine: J'ai un emploi. Il me plaît.
+Je vois la femme qui vous a parlé.,Combine: Je vois la femme. Elle vous a parlé.
+que,(relative pronoun replacing the direct object of a dependent clause); i have a friend WHO i think is funny.
+C'est une entreprise que je connais bien.,Combine: C'est une entreprise. Je connais bien cette entreprise.
+Voici une amie que j'ai rencontrée au travail.,Combine: Voici une amie. J'ai rencontré cette amie au travail.
+dont,(replaces 'de [direct object]' i.e. if the verb of the dependent clause uses '[verb] de'; OR expresses possession ("whose"/"of whom"))
+Où est le reçu dont j'ai besoin?,Combine: Où est le reçu? J'ai besoin du reçu.
+C'est la passagère dont les valises sont à la douane.,Combine: C'est la passagère. Ses valises sont à la douane.
+Aziz est l'écrivain dont on peut acheter les livres à la librairie.,Combine: Aziz est écrivain. On peut acheter les livres à la librairie.
+où,(relative pronoun expressing time or place; when/where/which)
+Le guichet où vous changez votre argent est là-bas.,The window where you change your money is over there.
+Le 1er janvier-- c'est le jour où vous êtes partis est maintenant fermé.,The first of January-- that's the day (when) I begin my new job.
+L'aéroport d'où vous êtes partis est maintenant fermé.,The airport from which you departed is closed now.

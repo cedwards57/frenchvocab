@@ -1,0 +1,12 @@
+ouvrir,to open
+j'ouvre,i open
+tu ouvres,you open
+il ouvre,he opens
+nous ouvrons,we open
+vous ouvrez,you open (pl.)
+ils ouvrent,they open
+j'ai ouvert,i have opened
+couvrir,to cover
+découvrir,to discover
+offrir,to offer
+souffrir,to suffer

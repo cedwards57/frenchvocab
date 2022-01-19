@@ -1,0 +1,50 @@
+je parlerais,i would talk
+tu parlerais,you would talk
+il parlerait,he would talk
+nous parlerions,we would talk
+vous parleriez,you would talk (pl.)
+ils parleraient,they would talk
+je finierais,i would finish
+tu finirais,you would finish
+il finirait,he would finish
+nous finirions,we would finish
+vous finiriez,you would finish (pl.)
+ils finiraient,they would finish
+je vendrais,i would sell
+tu vendrais,you would sell
+il vendrait,he would sell
+nous vendrions,we would sell
+vous vendriez,you would sell (pl.)
+ils vendraient,they would sell
+[conditionnel] si [imparfait] :OR: si [imparfait] [conditionnel],(if/then sentence format)
+ir,aller conditionnel root
+aur,avoir conditionnel root
+courr,courir conditionnel root
+devr,devoir conditionnel root
+enverr,envoyer conditionnel root
+ser,être conditionnel root
+fer,faire conditionnel root
+faudr,falloir conditionnel root
+mourr,mourir conditionnel root
+pleuvr,pleuvoir conditionnel root
+pourr,pouvoir conditionnel root
+recevr,recevoir conditionnel root
+saur,savoir conditionnel root
+tiendr,tenir conditionnel root
+viendr,venir conditionnel root
+verr,voir conditionnel root
+voudr,vouloir conditionnel root
+drop the 'e',for conditional form: irregular verbs ending in 'e'...
+'e' becomes 'é',for conditional form: some irregular verbs ending in 'e' + consonant + 'er'...
+double 'l' or 't',for conditional form: some irregular verbs ending in '-eler' or '-eter'...
+'y' becomes 'i',for conditional form: irregular verbs ending in '-yer'...
+'y' CAN become 'i',for conditional form: irregular verbs ending in '-ayer'...
+j'achètais,i would buy
+je le congèlais,i would freeze it
+j'enlèvais,i would remove
+je gèlais,i would freeze (be frozen)
+je lèvais,i would raise/lift
+je mènais,i would lead
+je modèlais,i would model
+je pèsais,i would weigh
+je me promènais,i would walk/wander

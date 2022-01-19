@@ -1,0 +1,21 @@
+courir,to run
+je cours,i run
+tu cours,you run
+il court,he runs
+nous courons,we run
+vous courez,you run (pl.)
+ils courent,they run
+j'ai couru,i have run
+je courrai,i'll run
+rire,to laugh
+sourire,to smile
+je ris,i laugh
+tu ris,you laugh
+il rit,he laughs
+nous rions,we laugh
+vous riez,you laugh (pl.)
+ils rient,they laugh
+j'ai ri,they have laughed
+je rirai,i will laugh
+rattraper,to catch (up)
+casser,to break

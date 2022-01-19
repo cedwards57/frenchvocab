@@ -1,0 +1,64 @@
+une profession; un travail; un métier,job
+travailler,to work
+un travailleur,a worker
+un fonctionnaire,an official; government worker
+un agent de police; un policier,police officer
+gendarmarie,(rural) police
+un employé de mairie,city hall employee
+un secrétaire de mairie,city hall secretary
+un professeur des écoles,schoolteacher
+un instituteur / une institutrice,teacher (of young kids)
+un facteur / une factrice,mailman
+un employé de la SNCF,train employee
+un salarié,employee
+chef d'enterprise,entrepreneur
+directeur commercial,sales manager
+ingénieur,engineer
+secrétaire,secretary
+comptable,accountant
+les ouvriers,manual jobs
+un coffeur / une coffeuse,hairdresser
+un(e) plombier,plumber
+un(e) boulanger,baker
+un vendeur / une vendeuse; un(e) marchand(e),seller
+vendeur de vin; marchand de vin,wine seller
+un(e) boucher,butcher
+un(e) docteure,doctor
+un(e) pharmacien(ne),pharmacist
+un(e) dentiste,dentist
+un(e) chirurgien(ne),surgeon
+un(e) vétérinaire; le veto,veterinarian
+un(e) avocat,lawyer
+un(e) architecte,architect
+un agriculteur / une agricultrice,farmer
+un(e) peintre; artiste,painter
+un(e) journaliste,journalist
+un serveur / une serveuse,waiter
+réparer,to fix
+un acteur,actor
+un concierge,concierge (hotel/apartment caretaker)
+un conducteur,conductor
+un cuisiner,cook
+un chanteur / une chanteuse,singer
+un écrivain,writer
+un nounou,nanny
+un traducteur / une traductrice,translator
+un(e) électricien(ne),electrician
+un infermier / une infermière,nurse
+un(e) hôtesse de l'air,flight attendant
+un juge,judge
+un psychiatre,psychiatrist
+un psychologue,psychologist
+un(e) mécanicien(ne),mechanic
+un médicin,doctor; practitioner
+réceptionniste,receptionist
+reporter,reporter
+un entretien,job interview
+une entreprise,company
+un C.V.,curriculum vitae; résumé
+le marché du travail,job market
+un stage,internship
+le chômage,unemployment
+un chômeur / une chômeuse,unemployed person
+10.5%,le taux de chômage en France
+le taux de chômage,unemployment rate

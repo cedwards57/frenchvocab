@@ -1,0 +1,60 @@
+factures,bills
+un compte bancaire,bank account
+un compte courant,checking account
+un compte d'épargne,savings account
+un relevé bancaire,bank statement
+un relevé de compte,account statement
+économiser;faire des économies (f.),to save (money)
+économiser pour l’avenir (m.),to save for the future
+gérer,to manage (one's affairs)
+ouvre,to open
+une carte bancaire,debit or credit card
+une carte de crédit,credit card
+une carte de débit,debit card
+le taux de change,exchange rate
+un guichet (automatique),ATM
+retirer du liquide,to withdraw cash
+retirer de l'argent,to withdraw money
+faire un retrait d'argent,to make a withdrawal
+déposer un chèque,to deposit a check
+déposer de l'argent,to deposit money
+un chèque,check
+un chequier; un carnet de chèques,checkbook
+le loyer,rent
+le paiement sans contact,card tap payment
+un bureau de change,currency exchange office
+les transports publique,public transport
+payer mes taxes,to pay my taxes
+couvrir des frais,to cover the fees
+un reçu,receipt
+un montant,amount; sum
+une somme,sum
+être à découvert,to be broke
+emprunter de l'argent,to owe money
+faire un emprunt; prêt bancaire,to take a loan
+le coût de la vie,cost of living
+un salaire,a salary
+un bon salaire,a good salary
+un salaire raisonnable,a reasonable salary
+une augmentation de salaire,a raise
+gagner d'e l'argent,to earn money
+perdre de l'argent,to lose money
+un boulot,a job (informal)
+bosser,to work (informal)
+être fauché(e),to be broke (informal)
+la fraîche,cash (informal)
+le fric; les tunes,money (informal)
+économe,frugal; thrifty
+voleur,thief
+compter,to count
+contrôler ses relevés (m.),to check one's bank statements
+une dépense,expenditure
+un emprunt,loan
+encaisser,to cash (a check)
+des frais (m.),expenses; costs
+la monnaie,change; currency
+payer par prélèvement automatique,to make automatic payments
+réaliser un virement,to transfer money
+un reçu,receipt
+toucher,to receive; to get (money)
+un magnat des affaires,tycoon

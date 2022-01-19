@@ -1,0 +1,84 @@
+que je parle,that i speak
+que tu parles,that you speak
+qu'il parle,that he speaks
+que nous parlions,that we speak
+que vous parliez,that you speak (pl.)
+qu'ils parlent,that they speak
+que je boive,that i drink
+que tu boives,that you drink
+qu'il boive,that he drinks
+que nous buvions,that we drink
+que vous buviez,that you drink (pl.)
+qu'ils boivent,that they drink (pl.)
+que j'achète,that i buy
+que tu achètes,that you buy
+qu'il achète,that he buys
+que nous achetions,that we buy
+que vous achetiez,that you buy (pl.)
+qu'ils achètent,that they buy
+que j'apprenne,that i learn
+que tu apprennes,that you learn
+qu'il apprenne,that he learns
+que nous apprenions,that we learn
+que vous appreniez,that you learn (pl.)
+qu'ils apprennent,that they learn
+que je préfère,that i prefer
+que tu préfères,that you prefer
+qu'il préfère,that he prefers
+nous préférions,that we prefer
+vous préfériez,that you prefer (pl.)
+ils préfèrent,that they prefer
+que j'prenne,that i learn
+que tu prennes,that you learn
+qu'il prenne,that he learns
+que nous prenions,that we learn
+que vous preniez,that you learn (pl.)
+qu'ils prennent,that they learn
+que je vienne,that i come
+que tu viennes,that you come
+qu'il vienne,that he comes
+que nous venions,that we come
+que vous veniez,that you come (pl.)
+qu'ils viennent,that they come
+que j'aille,that i go
+que tu ailles,that you go
+qu'il aille,that he goes
+que nous allions,that we go
+que vous alliez,that you go (pl.)
+qu'ils aillent,that they go
+que je fasse,that i do
+que tu fasses,that you do
+qu'il fasse,that he does
+que nous fassions,that we do
+que vous fassiez,that you do (pl.)
+qu'ils fassent,that they do
+que je puisse,that i can
+que tu puisses,that you can
+qu'il puisse,that he can
+que nous puissions,that we can
+que vous puissiez,that you can (pl.)
+qu'ils puissent,that they can
+que je sache,that i know
+que tu saches,that you know
+qu'il sache,that he knows
+que nous sachions,that we know
+que vous sachiez,that you know (pl.)
+qu'ils sachent,that they know
+que je veuille,that i want
+que tu veuilles,that you want
+qu'il veuille,that he wants
+que nous voulions,that we want
+que vous vouliez,that you want (pl.)
+qu'ils veuillent,that they want
+que j'aie,that i have
+que tu aies,that you have
+qu'il ait,that he has
+que nous ayons,that we have
+que vous ayez,that you have (pl.)
+qu'ils aient,that they have
+que je sois,that i am
+que tu sois,that you are
+qu'il soit,that he is
+que nous soyons,that we are
+que vous soyez,that you are (pl.)
+qu'ils soient,that they are
