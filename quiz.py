@@ -40,5 +40,4 @@ files = {
     "16.4": "vocab_ch16-4_politics_environment.txt",
 }
 
-
 quiz(files["14.1"])
