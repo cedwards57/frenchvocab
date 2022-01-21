@@ -12,7 +12,8 @@ def quiz(filename):
             en_side.append(row[1])
     fr_side = list(enumerate(fr_side))
     random.shuffle(fr_side)
-    print("Enter the French term. Enter QUIT to stop anytime.")
+    print("Enter the French term.")
+    print("Enter QUIT to stop anytime.")
     for i,answer in fr_side:
         print(en_side[i])
         fr_input = input()
